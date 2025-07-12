@@ -1,0 +1,91 @@
+{
+    "demo_user": [
+        {
+            "name": "Drink Water",
+            "frequency": "daily",
+            "time": "7:00 AM"
+        },
+        {
+            "name": "Morning Stretching",
+            "frequency": "daily",
+            "time": "7:30 AM"
+        },
+        {
+            "name": "Healthy Breakfast",
+            "frequency": "daily",
+            "time": "8:00 AM"
+        },
+        {
+            "name": "Read a Book",
+            "frequency": "daily",
+            "time": "9:00 AM"
+        },
+        {
+            "name": "Work on Project",
+            "frequency": "daily",
+            "time": "10:00 AM"
+        },
+        {
+            "name": "Go for a Walk",
+            "frequency": "daily",
+            "time": "6:00 PM"
+        },
+        {
+            "name": "Meditation",
+            "frequency": "daily",
+            "time": "9:00 PM"
+        },
+        {
+            "name": "Sleep by 10 PM",
+            "frequency": "daily",
+            "time": "10:00 PM"
+        }
+    ],
+    "tejo": [
+        {
+            "name": "smoking",
+            "frequency": "daily",
+            "time": "7:00 AM"
+        },
+        {
+            "name": "sleeping",
+            "frequency": "daily",
+            "time": "10:00 PM"
+        },
+        {
+            "name": "",
+            "frequency": "daily",
+            "time": ""
+        },
+        {
+            "name": "",
+            "frequency": "daily",
+            "time": ""
+        },
+        {
+            "name": "",
+            "frequency": "weekly",
+            "time": ""
+        },
+        {
+            "name": "drinking",
+            "frequency": "daily",
+            "time": "7:00AM"
+        },
+        {
+            "name": "sleeping",
+            "frequency": "daily",
+            "time": "8:00PM"
+        }
+    ],
+    "2025-05-14": [
+        "demo_user",
+        "tejo"
+    ],
+    "2025-05-15": [
+        "demo_user",
+        "tejo",
+        "2025-05-14",
+        "2025-05-15"
+    ]
+}
